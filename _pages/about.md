@@ -1,5 +1,5 @@
 ---
-layout: home
+
 title: "Yinchu Li"
 author_profile: true
 permalink: /
