@@ -8,34 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I’m **Yinchu Li**, a PhD candidate enrolled in the **REDI Dual-PhD Program** at  
-[@TUE_ID (Eindhoven University of Technology)](https://www.tue.nl/en/) and  
-[@RMIT (Royal Melbourne Institute of Technology)](https://www.rmit.edu.au/),  
-funded by [@MSCActions](https://marie-sklodowska-curie-actions.ec.europa.eu/) and [@HorizonEU](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en).
+Hello!👋 I'm Yinchu — a design researcher exploring how we might relate to digital representations of ourselves or our health in more meaningful, embodied, and personally relevant ways. I hold an interdisciplinary background spanning information systems and human-computer interaction. Currently, I'm pursuing my PhD in the **REDI Dual-PhD Program** between **Eindhoven University of Technology** (TU/e) and **RMIT University**, funded by **Marie Skłodowska-Curie Actions** under **Horizon Europe**. My work builds on speculative design, embodied interaction, and post-phenomenological perspectives to rethink the future forms and interactions with our digital twin.
 
-My PhD research explores the **application of Human Digital Twins in preventive health**, with a focus on how individuals interact with their digital counterparts over time. I investigate the design of long-term relationships between people and predictive systems, including how embodiment, relational agency, and material representation influence understanding and trust.
+Specifically, my research focuses on the interaction design of **Human Digital Twins** in the context of **preventive health**. I investigate how we can move beyond purely data-driven interfaces toward forms of interaction that are **expressive, meaningful, and relational**. Through speculative and embodied approaches, I explore how digital twins might act not only as data visualizers, but as relational counterparts, such as shadow, future teller, living memories.
 
-I'm particularly interested in:
+Presenting health information in new ways — to facilitate understanding and promote reflective interaction — has always been at the heart of my work. I am particularly interested in:
 - Human-data interaction and interactive materials  
 - Embodied and speculative design methodologies  
 - Tangible and multisensory representations of predictive data  
 
-Presenting data in new ways — to facilitate understanding and promote reflective interaction — has always been at the heart of my work.
-
----
-
-### 🎓 Education
-
-My academic background spans the fields of **industrial design**, **human-computer interaction**, and **information systems**. This interdisciplinary foundation informs my interest in the intersection of technology, health, and everyday life.
-
-- **PhD candidate in Design**, REDI Dual-PhD Program  
-  *Eindhoven University of Technology (TU/e), the Netherlands & RMIT University, Australia*
-
-- **M.Sc. in Human-Computer Interaction**  
-  *Uppsala University, Sweden*
-
-- **B.Sc. in Information Management and Information Systems**  
-  *Huazhong University of Science and Technology, China*
+Outside of research, I enjoy cooking, crocheting, travelling and finding meanings in everyday materials. You can reach me at y.li1@tue.nl or through my "digital twin" on [instagram](https://www.instagram.com/yinchu_design_research?igsh=MWo1aGZibXAydjAxZA%3D%3D&utm_source=qr). I'm always up for a fika! 🫖☕
 
 ---
 
