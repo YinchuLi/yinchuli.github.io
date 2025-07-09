@@ -3,6 +3,9 @@ layout: home
 title: "Yinchu Li"
 author_profile: true
 permalink: /
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 👋 Hi, I’m **Yinchu Li**, a PhD candidate enrolled in the **REDI Dual-PhD Program** at  
