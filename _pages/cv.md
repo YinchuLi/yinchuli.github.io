@@ -15,5 +15,4 @@ My research explores the interaction design of Human Digital Twins in preventive
 
 I hold an MSc in Human-Computer Interaction from Uppsala University (Sweden), where I developed interests in embodied interaction and design for everyday digital experiences. I have my BSc in Information Management and Information Systems from Huazhong University of Science and Technology (China), which provided me with technical and analytical skills in information systems and data management.
 
-📝 Want the full story?  
-[Download my CV](files/CV_Yinchu_Li.pdf)
+📝 Want the full story?  [Download my CV here!](files/CV_Yinchu_Li.pdf)
