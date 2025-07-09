@@ -9,56 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I am currently a PhD candidate in the [@REDI Dual-PhD Program]([https://www.tue.nl/en/](https://www.rediprogram.eu/)), jointly hosted by Eindhoven University of Technology (The Netherlands) and RMIT University (Australia), and funded by the Marie Skłodowska-Curie Actions (MSCA) under the Horizon Europe programme. My research explores the interaction design of Human Digital Twins in preventive health context, with a focus on roles, embodiment, and long-term human-digital twin relationships. I am supervised by Prof. Regina Bernhaupt (TU/e), Asst.Prof. Carine Lallemand (TU/e), Prof. Laurene Vaughan (RMIT), Dr. Liam Fennessy (RMIT) and Dr. Scott Mitchell (RMIT).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+I hold an MSc in Human-Computer Interaction from Uppsala University (Sweden), where I developed interests in embodied interaction and design for everyday digital experiences. I have my BSc in Information Management and Information Systems from Huazhong University of Science and Technology (China), which provided me with technical and analytical skills in information systems and data management.
