@@ -6,7 +6,7 @@ permalink: /publication/2026-04-13-CHI-Poster
 excerpt: "This poster reports an initial results from surveying people's perceptions of roles of Human Digital Twins in preventive health contexts."
 date: 2026-04-13
 venue: 'ACM CHI conference 2026'
-paperurl: 'http://academicpages.github.io/files/chiea26-297.pdf'
+paperurl: 'http://yinchuli.github.io/files/chiea26-297.pdf'
 citation: 'Li, Y., Lallemand, C., & Bernhaupt, R.. 2026. Towards Rigorous Role Design: A Survey Study on the Role Perceptions of Digital Twins in Preventive Health Contexts. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA 26). Association for Computing Machinery, Barcelona, Spain. doi:10.1145/3772363.3798486'
 ---
 Abstract:
