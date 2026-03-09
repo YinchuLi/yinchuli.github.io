@@ -2,7 +2,7 @@
 title: "Towards Rigorous Role Design: A Survey Study on the Role Perceptions of Digital Twins in Preventive Health Contexts"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-CHI-Poster
+permalink: /publication/2026-04-13-CHI-Poster
 excerpt: 'This poster reports an initial results from surveying people's perceptions of roles of Human Digital Twins in preventive health contexts.'
 date: 2026
 venue: 'ACM CHI conference 2026'
