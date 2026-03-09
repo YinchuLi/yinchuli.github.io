@@ -6,7 +6,7 @@ permalink: /publication/2025-InteractShortPaper
 excerpt: 'This paper explores how people physicalize health predictions.'
 date: 2025-09-08
 venue: '20th IFIP TC13 International Conference on Human-Computer Interaction'
-paperurl: 'http://academicpages.github.io/files/interactshort2025.pdf'
+paperurl: 'http://yinchuli.github.io/files/interactshort2025.pdf'
 citation: 'Li, Y., Lallemand, C., Bernhaupt, R. (2026). Making Predictions Tangible: Using Data Physicalization to Explore Expectations Around Health Predictions. In: Ardito, C., et al. Human-Computer Interaction – INTERACT 2025. INTERACT 2025. Lecture Notes in Computer Science, vol 16109. Springer, Cham. https://doi.org/10.1007/978-3-032-05002-1_28'
 ---
 Abstract:
